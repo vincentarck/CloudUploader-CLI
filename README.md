@@ -1,4 +1,4 @@
-![image](https://github.com/vincentarck/CloudUploader-CLI/assets/73167671/e3d0170e-525a-4f62-a006-816dd52a75c3)# CloudUploader to S3 Bucket with Command Line Interface
+# CloudUploader to S3 Bucket with Command Line Interface
 
 ## A fully functional CLI 
 A bash-based CLI tool developed with Ubuntu 22 that allows users to quickly upload files to S3 , providing a seamless upload experience including, 
